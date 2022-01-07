@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565810855404",
+    "firebase_url": "https://notesmvvm-78f38-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notesmvvm-78f38",
+    "storage_bucket": "notesmvvm-78f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565810855404:android:8dd6ce9cee7cade1e194c9",
+        "android_client_info": {
+          "package_name": "com.example.notesmvvm.nurtdinov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565810855404-prt53gf7vahubmh3os504thhqvm440sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tROdBWeeXCAC2ugk0bS-yejlxBAm5Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565810855404-prt53gf7vahubmh3os504thhqvm440sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
